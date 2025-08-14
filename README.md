@@ -1,4 +1,4 @@
-# 👋 <span style="color:blue">안녕하세요!</span>  
+## 👋 <span style="color:blue">안녕하세요!</span>  
 <b>프로젝트와 함께 성장하는 개발자</b> <i>[홍길동]</i> 입니다.
 
 💡 <span style="font-family:Courier New">매일 조금씩, 기능과 완성도를 버전 업</span>  
