@@ -1,7 +1,7 @@
 ## 👋 <span style="color:blue">안녕하세요!</span>  
 <b>프로젝트와 함께 성장하는 개발자</b>  </b>[안진홍]</b> 입니다.
 
-💡 <span style="font-family:Courier New">매일 조금씩, 기능과 완성도를 버전 업</span>  
+💡 <span style="font-family:Courier New">매일 조금씩, 기능과 완성도를 버전 업합니다.</span>  
 📚 현재 집중 분야: STM32, FreeRTOS, Raspberry Pi, AI 영상처리, PyQt5
 
 
