@@ -1,7 +1,5 @@
 ## <span style="color:blue">안녕하세요! 프로젝트와 함께 성장하는 개발자 [안진홍]</span>입니다.  
     
-<b>프로젝트와 함께 성장하는 개발자</b>  </b>[안진홍]</b> 입니다.  
-  
  <span style="font-family:Courier New">꾸준히 조금씩, 기능과 완성도를 버전 업합니다.</span>  
   
  💡 **특징:**  
